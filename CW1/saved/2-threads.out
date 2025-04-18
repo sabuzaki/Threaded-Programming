@@ -1,0 +1,692 @@
+Loading intel-20.4/compilers
+  Loading requirement: intel-license gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 0
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 7.983782
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.640270
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 0
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 8.119864
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.634602
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 0
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 7.945970
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.628813
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 0
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 7.969418
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.652278
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 0
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 8.047480
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.640203
+########################################################
+Number of threads: 2.  Schedule type: auto, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.638707
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.644336
+########################################################
+Number of threads: 2.  Schedule type: auto, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.593970
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.657195
+########################################################
+Number of threads: 2.  Schedule type: auto, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.606403
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.671847
+########################################################
+Number of threads: 2.  Schedule type: auto, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.597812
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.621792
+########################################################
+Number of threads: 2.  Schedule type: auto, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.615737
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.661016
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.057104
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.033409
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.112580
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.996369
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.015468
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.987134
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.991830
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.990120
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.004206
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.986163
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.119757
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.701169
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.082597
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.685291
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.896170
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.700533
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.872670
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.684807
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.978477
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.684749
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.894689
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.546655
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.840566
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.548273
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.865872
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.546576
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.881295
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.556899
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.924713
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.570669
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.991667
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.851894
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 6.072635
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.851234
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.959183
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.853896
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.979042
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.861222
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.995993
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.872511
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.998159
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.656580
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.977178
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.657958
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.944724
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.646833
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.843644
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.712082
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.954981
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.665905
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.807577
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.760230
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.810889
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.754248
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.976521
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.764848
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.878521
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.803271
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.929889
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.764485
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.861196
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.807707
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.818993
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.811008
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.902186
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.814877
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.918921
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.806999
+########################################################
+Number of threads: 2.  Schedule type: static, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.767339
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.807068
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.841589
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.139014
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.824184
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.148023
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.867078
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.157733
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.818437
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.139093
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.846563
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.148107
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.767114
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.116206
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.773089
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.143985
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.812469
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.131079
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.815388
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.112380
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.873887
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.115355
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.819818
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.104453
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.749969
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.116595
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.788229
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.125150
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.752453
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.104112
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.783740
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.103115
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.694409
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.092844
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.671261
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.124016
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.740570
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.117705
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.701756
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.095085
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.750864
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.100951
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.738757
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.093479
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.753498
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.120528
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.775406
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.091601
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.834617
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.089977
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.814057
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.095329
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.811497
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.088080
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.761007
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.116032
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.815969
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.096857
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.816779
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.088032
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.786028
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.086645
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.807168
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.256302
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.742945
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.271700
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.800006
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.252013
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.766430
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.247044
+########################################################
+Number of threads: 2.  Schedule type: dynamic, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.739966
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.256154
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.581442
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.657631
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.635371
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.641257
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.667968
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.674636
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.686579
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.646727
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.671851
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.685010
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.695070
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.653384
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.635474
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.650742
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.596699
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.646961
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.591510
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.650700
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.658635
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.670516
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.606680
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.648001
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.624275
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.643891
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.618806
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.649326
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.608577
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.675182
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.643938
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.579468
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.635732
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.671392
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.642495
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.652615
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.615715
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.667892
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.595842
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.642326
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.603233
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.620935
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.590821
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.656128
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.672627
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.668357
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.627021
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.673947
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.636180
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.648496
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.649969
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.688467
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 11.935436
+Loop 2 check: zz is 6100.290112
+Total time for 1000 reps of loop 2 = 13.737725
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 12.105651
+Loop 2 check: zz is 6100.290112
+Total time for 1000 reps of loop 2 = 13.814253
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 11.756902
+Loop 2 check: zz is 6100.290112
+Total time for 1000 reps of loop 2 = 13.800913
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.661863
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.627703
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.601986
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.616340
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.694038
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.692193
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.686755
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.659540
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.696102
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.664244
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.764212
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.655219
+########################################################
+Number of threads: 2.  Schedule type: guided, Chunk size: 64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 5.729621
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.649966

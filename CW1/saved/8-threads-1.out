@@ -1,0 +1,727 @@
+Loading intel-20.4/compilers
+  Loading requirement: intel-license gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+################### Setting OMP_SCHEDULE to static
+
+Threads:8; Schedule: static
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 3.164475
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.089358
+
+Threads:8; Schedule: static
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 3.110538
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 10.967440
+
+Threads:8; Schedule: static
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 3.121155
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.113737
+
+Threads:8; Schedule: static
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 3.110113
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.011215
+
+Threads:8; Schedule: static
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 3.132721
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 11.148639
+################### Setting OMP_SCHEDULE to auto
+
+Threads:8; Schedule: auto
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.669069
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.359446
+
+Threads:8; Schedule: auto
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.688488
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.468912
+
+Threads:8; Schedule: auto
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.657972
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.568176
+
+Threads:8; Schedule: auto
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.673724
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.492694
+
+Threads:8; Schedule: auto
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.667242
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.470397
+################### Setting OMP_SCHEDULE to static,1
+
+Threads:8; Schedule: static,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.740270
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.003448
+
+Threads:8; Schedule: static,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.726577
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.032000
+
+Threads:8; Schedule: static,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.747708
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.804243
+
+Threads:8; Schedule: static,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.729703
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.789435
+
+Threads:8; Schedule: static,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.698521
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.698509
+################### Setting OMP_SCHEDULE to static,2
+
+Threads:8; Schedule: static,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.740482
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.002108
+
+Threads:8; Schedule: static,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.723082
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.967656
+
+Threads:8; Schedule: static,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.727826
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.973090
+
+Threads:8; Schedule: static,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.712349
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.966919
+
+Threads:8; Schedule: static,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.737373
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.989724
+################### Setting OMP_SCHEDULE to static,4
+
+Threads:8; Schedule: static,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.723008
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.415939
+
+Threads:8; Schedule: static,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.768664
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.433230
+
+Threads:8; Schedule: static,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.739902
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.424685
+
+Threads:8; Schedule: static,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.712801
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.398179
+
+Threads:8; Schedule: static,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.717363
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.394440
+################### Setting OMP_SCHEDULE to static,8
+
+Threads:8; Schedule: static,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.749538
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.630140
+
+Threads:8; Schedule: static,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.736797
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.627034
+
+Threads:8; Schedule: static,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.732010
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.627987
+
+Threads:8; Schedule: static,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.739831
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.629409
+
+Threads:8; Schedule: static,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.733271
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.651560
+################### Setting OMP_SCHEDULE to static,16
+
+Threads:8; Schedule: static,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.752758
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.626114
+
+Threads:8; Schedule: static,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.777337
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.625358
+
+Threads:8; Schedule: static,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.765267
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.650277
+
+Threads:8; Schedule: static,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.743807
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.650079
+
+Threads:8; Schedule: static,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.773625
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 2.629155
+################### Setting OMP_SCHEDULE to static,32
+
+Threads:8; Schedule: static,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.871498
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.260177
+
+Threads:8; Schedule: static,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.889039
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.249518
+
+Threads:8; Schedule: static,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.815180
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.265370
+
+Threads:8; Schedule: static,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.803202
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.288583
+
+Threads:8; Schedule: static,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.852767
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 4.372642
+################### Setting OMP_SCHEDULE to static,64
+
+Threads:8; Schedule: static,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.952268
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.807790
+
+Threads:8; Schedule: static,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.957195
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.811778
+
+Threads:8; Schedule: static,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.993130
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.779235
+
+Threads:8; Schedule: static,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.974602
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.809237
+
+Threads:8; Schedule: static,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.923064
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.801320
+################### Setting OMP_SCHEDULE to dynamic,1
+
+Threads:8; Schedule: dynamic,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.719174
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.879074
+
+Threads:8; Schedule: dynamic,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.731087
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.889419
+
+Threads:8; Schedule: dynamic,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.723826
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.871584
+
+Threads:8; Schedule: dynamic,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.717240
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.887840
+
+Threads:8; Schedule: dynamic,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.698841
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.879222
+################### Setting OMP_SCHEDULE to dynamic,2
+
+Threads:8; Schedule: dynamic,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.687638
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.861214
+
+Threads:8; Schedule: dynamic,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.698237
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.865741
+
+Threads:8; Schedule: dynamic,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.704286
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.864529
+
+Threads:8; Schedule: dynamic,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.688986
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.876604
+
+Threads:8; Schedule: dynamic,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.694176
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.876276
+################### Setting OMP_SCHEDULE to dynamic,4
+
+Threads:8; Schedule: dynamic,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.729322
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.861898
+
+Threads:8; Schedule: dynamic,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.696582
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.862291
+
+Threads:8; Schedule: dynamic,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.697636
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.860084
+
+Threads:8; Schedule: dynamic,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.693594
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.855930
+
+Threads:8; Schedule: dynamic,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.695823
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.860928
+################### Setting OMP_SCHEDULE to dynamic,8
+
+Threads:8; Schedule: dynamic,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.714703
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.864686
+
+Threads:8; Schedule: dynamic,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.707545
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.873802
+
+Threads:8; Schedule: dynamic,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.729688
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.847446
+
+Threads:8; Schedule: dynamic,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.658818
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.854977
+
+Threads:8; Schedule: dynamic,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.704088
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.857556
+################### Setting OMP_SCHEDULE to dynamic,16
+
+Threads:8; Schedule: dynamic,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.739968
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.862246
+
+Threads:8; Schedule: dynamic,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.764518
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.873024
+
+Threads:8; Schedule: dynamic,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.737283
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.872070
+
+Threads:8; Schedule: dynamic,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.740673
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.884476
+
+Threads:8; Schedule: dynamic,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.742164
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 1.870188
+################### Setting OMP_SCHEDULE to dynamic,32
+
+Threads:8; Schedule: dynamic,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.805641
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.601725
+
+Threads:8; Schedule: dynamic,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.826244
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.588841
+
+Threads:8; Schedule: dynamic,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.814536
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.583845
+
+Threads:8; Schedule: dynamic,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.832430
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.671685
+
+Threads:8; Schedule: dynamic,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.818880
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 3.674491
+################### Setting OMP_SCHEDULE to dynamic,64
+
+Threads:8; Schedule: dynamic,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.947610
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 6.940740
+
+Threads:8; Schedule: dynamic,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.013112
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.341136
+
+Threads:8; Schedule: dynamic,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.974955
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.296076
+
+Threads:8; Schedule: dynamic,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.983636
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.223720
+
+Threads:8; Schedule: dynamic,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 2.018201
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 7.342726
+################### Setting OMP_SCHEDULE to guided,1
+
+Threads:8; Schedule: guided,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.689624
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.599615
+
+Threads:8; Schedule: guided,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.673889
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.608881
+
+Threads:8; Schedule: guided,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.674723
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.613583
+
+Threads:8; Schedule: guided,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.679199
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.282460
+
+Threads:8; Schedule: guided,1
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.685469
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.577333
+################### Setting OMP_SCHEDULE to guided,2
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.671948
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.425453
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.674400
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.427752
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.828431
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 8.921810
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.682971
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.204107
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.667348
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.468262
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.701254
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.608149
+
+Threads:8; Schedule: guided,2
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.679714
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.387690
+OMP_SCHEDULE to guided,4
+
+Threads:8; Schedule: guided,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.678160
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.233732
+
+Threads:8; Schedule: guided,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.678080
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.593201
+
+Threads:8; Schedule: guided,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.683477
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.628627
+
+Threads:8; Schedule: guided,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.679065
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.614008
+
+Threads:8; Schedule: guided,4
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.691489
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.546455
+OMP_SCHEDULE to guided,8
+
+Threads:8; Schedule: guided,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.711197
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.392807
+
+Threads:8; Schedule: guided,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.682613
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.582193
+
+Threads:8; Schedule: guided,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.721457
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.414001
+
+Threads:8; Schedule: guided,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.708706
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.525842
+
+Threads:8; Schedule: guided,8
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.725528
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.297588
+OMP_SCHEDULE to guided,16
+
+Threads:8; Schedule: guided,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.727064
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.604507
+
+Threads:8; Schedule: guided,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.728102
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.578357
+
+Threads:8; Schedule: guided,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.726662
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.607501
+
+Threads:8; Schedule: guided,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.734119
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.215197
+
+Threads:8; Schedule: guided,16
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.716978
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.311919
+OMP_SCHEDULE to guided,32
+
+Threads:8; Schedule: guided,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.815815
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.647566
+
+Threads:8; Schedule: guided,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.816727
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.617794
+
+Threads:8; Schedule: guided,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.808532
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.604736
+
+Threads:8; Schedule: guided,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.831001
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.564547
+
+Threads:8; Schedule: guided,32
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.832426
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.252630
+OMP_SCHEDULE to guided,64
+
+Threads:8; Schedule: guided,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.941222
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.510509
+
+Threads:8; Schedule: guided,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.938179
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.382854
+
+Threads:8; Schedule: guided,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.929218
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.382397
+
+Threads:8; Schedule: guided,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.933731
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.550785
+
+Threads:8; Schedule: guided,64
+Loop 1 check: Sum of xx is 8806547.757320
+Total time for 1000 reps of loop 1 = 1.959288
+Loop 2 check: zz is 6100.290115
+Total time for 1000 reps of loop 2 = 9.253777

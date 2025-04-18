@@ -1,0 +1,47 @@
+Loading intel-20.4/compilers
+  Loading requirement: intel-license gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 32 threads
+Result = -1.699471e-01
+Time(s) = 4.238478
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 24 threads
+Result = -1.699471e-01
+Time(s) = 3.284160
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 16 threads
+Result = -1.699471e-01
+Time(s) = 3.617696
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 12 threads
+Result = -1.699471e-01
+Time(s) = 4.372857
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 8 threads
+Result = -1.699471e-01
+Time(s) = 5.344417
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 6 threads
+Result = -1.699471e-01
+Time(s) = 6.448635
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 4 threads
+Result = -1.699471e-01
+Time(s) = 8.953546
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 2 threads
+Result = -1.699471e-01
+Time(s) = 16.111056
+
+Parallel version: one queue & work-sharing using critical sections
+Utilizing 1 threads
+Result = -1.699471e-01
+Time(s) = 30.601090

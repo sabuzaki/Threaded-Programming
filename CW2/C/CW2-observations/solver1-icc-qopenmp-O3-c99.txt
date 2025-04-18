@@ -1,0 +1,47 @@
+Loading intel-20.4/compilers
+  Loading requirement: intel-license gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+  
+Parallel version: tasks
+Utilizing 1 threads
+Result = -1.699471e-01
+Time(s) = 30.435997
+
+Parallel version: tasks
+Utilizing 2 threads
+Result = -1.699471e-01
+Time(s) = 15.213575
+
+Parallel version: tasks
+Utilizing 4 threads
+Result = -1.699471e-01
+Time(s) = 8.033007
+
+Parallel version: tasks
+Utilizing 6 threads
+Result = -1.699471e-01
+Time(s) = 5.640436
+
+Parallel version: tasks
+Utilizing 8 threads
+Result = -1.699471e-01
+Time(s) = 4.377174
+
+Parallel version: tasks
+Utilizing 12 threads
+Result = -1.699471e-01
+Time(s) = 3.028633
+
+Parallel version: tasks
+Utilizing 16 threads
+Result = -1.699471e-01
+Time(s) = 2.282850
+
+Parallel version: tasks
+Utilizing 24 threads
+Result = -1.699471e-01
+Time(s) = 1.563131
+
+Parallel version: tasks
+Utilizing 32 threads
+Result = -1.699471e-01
+Time(s) = 1.256479

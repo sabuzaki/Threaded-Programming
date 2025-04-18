@@ -1,0 +1,4 @@
+Loading intel-20.4/compilers
+  Loading requirement: intel-license gcc/10.2.0 intel-20.4/cc intel-20.4/fc
+Area of Mandlebrot set =   1.50927328 +/-   0.00075464
+Time =   7.10998988 seconds

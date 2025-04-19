@@ -1,6 +1,6 @@
 #include <math.h> 
 #include <stdio.h>
-
+//comment1
 double euler(double init, double step, double alpha, int numsteps)
 {
    double y = init; 
